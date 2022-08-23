@@ -1,7 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-
+- [Shoned] (https://github.com/shoned/)
 - [Raboro](https://github.com/Raboro)
 - [Randall Weaver](https://github.com/randallwvr90)
 - [Nicholas Mendez](https://github.com/nickmendezFlatiron)
